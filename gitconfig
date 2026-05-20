@@ -55,7 +55,8 @@
   mergeoptions = --no-edit
 [user]
 mail = marine.thierry01@gmail.com
-name = MarineThierry
+	name = MarineThierry
+	email = marine.thierry01@gmail.com
 [pull]
   rebase = false
 
